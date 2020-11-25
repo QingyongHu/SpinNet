@@ -57,7 +57,6 @@ If you find our work useful in your research, please consider citing:
       year={2020}
     }
 
-
 ### Updates
 * 25/11/2020: Initial release
 
