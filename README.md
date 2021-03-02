@@ -1,11 +1,10 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spinnet-learning-a-general-surface-descriptor/point-cloud-registration-on-3dmatch-benchmark)](https://paperswithcode.com/sota/point-cloud-registration-on-3dmatch-benchmark?p=spinnet-learning-a-general-surface-descriptor)
 [![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 [![arXiv](https://img.shields.io/badge/arXiv-2011.12149-b31b1b.svg)](https://arxiv.org/abs/2011.12149)
-# SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration
+# SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration (CVPR 2021)
 
-This is the repository of **SpinNet** ([[Arxiv report](https://arxiv.org/abs/2011.12149)]), a conceptually simple neural architecture to extract local 
+This is the official repository of **SpinNet** ([[Arxiv report](https://arxiv.org/abs/2011.12149)]), a conceptually simple neural architecture to extract local 
 features which are rotationally invariant whilst sufficiently informative to enable accurate registration. For technical details, please refer to:
-
 
 **SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration**  <br />
 [Sheng Ao*](http://scholar.google.com/citations?user=cvS1yuMAAAAJ&hl=zh-CN), [Qingyong Hu*](https://www.cs.ox.ac.uk/people/qingyong.hu/), [Bo Yang](https://yang7879.github.io/), [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/), [Yulan Guo](http://yulanguo.me/). <br />
@@ -53,15 +52,25 @@ features which are rotationally invariant whilst sufficiently informative to ena
 ### Citation
 If you find our work useful in your research, please consider citing:
 
-    @article{ao2020SpinNet,
+    @inproceedings{ao2020SpinNet,
       title={SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration},
       author={Ao, Sheng and Hu, Qingyong and Yang, Bo and Markham, Andrew and Guo, Yulan},
-      journal={arXiv preprint arXiv:2011.12149},
-      year={2020}
+      booktitle={arXiv preprint arXiv:2011.12149},
+      year={2021}
     }
 
 ### Updates
-* 25/11/2020: Initial release
+* 01/03/2021: This paper has been accepted by CVPR 2021!
+* 25/11/2020: Initial release!
+
+
+## Related Repos
+1. [RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds](https://github.com/QingyongHu/RandLA-Net) ![GitHub stars](https://img.shields.io/github/stars/QingyongHu/RandLA-Net.svg?style=flat&label=Star)
+2. [SoTA-Point-Cloud: Deep Learning for 3D Point Clouds: A Survey](https://github.com/QingyongHu/SoTA-Point-Cloud) ![GitHub stars](https://img.shields.io/github/stars/QingyongHu/SoTA-Point-Cloud.svg?style=flat&label=Star)
+3. [3D-BoNet: Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds](https://github.com/Yang7879/3D-BoNet) ![GitHub stars](https://img.shields.io/github/stars/Yang7879/3D-BoNet.svg?style=flat&label=Star)
+3. [SensatUrban: Learning Semantics from Urban-Scale Photogrammetric Point Clouds](https://github.com/QingyongHu/SpinNet) ![GitHub stars](https://img.shields.io/github/stars/QingyongHu/SensatUrban.svg?style=flat&label=Star)
+
+
 
 
 
