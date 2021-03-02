@@ -8,6 +8,8 @@ features which are rotationally invariant whilst sufficiently informative to ena
 
 **SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration**  <br />
 [Sheng Ao*](http://scholar.google.com/citations?user=cvS1yuMAAAAJ&hl=zh-CN), [Qingyong Hu*](https://www.cs.ox.ac.uk/people/qingyong.hu/), [Bo Yang](https://yang7879.github.io/), [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/), [Yulan Guo](http://yulanguo.me/). <br />
+(* *indicates equal contribution*)
+
 **[[Paper](https://arxiv.org/abs/2011.12149)] [Video] [Project page]** <br />
 
 
