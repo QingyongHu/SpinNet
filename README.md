@@ -177,7 +177,7 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Updates
-* 01/04/2021: The code is released!
+* 03/04/2021: The code is released!
 * 01/03/2021: This paper has been accepted by CVPR 2021!
 * 25/11/2020: Initial release!
 
