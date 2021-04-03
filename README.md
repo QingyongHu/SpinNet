@@ -176,6 +176,7 @@ If you find our work useful in your research, please consider citing:
 [1] 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions, Andy Zeng, Shuran Song, Matthias Nießner, Matthew Fisher, Jianxiong Xiao, and Thomas Funkhouser, CVPR 2017.
 
 
+
 ### Updates
 * 03/04/2021: The code is released!
 * 01/03/2021: This paper has been accepted by CVPR 2021!
