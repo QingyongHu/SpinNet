@@ -37,7 +37,7 @@ pip install "git+git://github.com/erikwijmans/Pointnet2_PyTorch.git#egg=pointnet
 ```
 
 ### (3) 3DMatch
-Download the processed dataset through this [link](https://drive.google.com/drive/my-drive), and put the folder into `data`. 
+Download the processed dataset through this [link](https://drive.google.com/file/d/1PrkSE0nY79gOF_VJcKv2VpxQ8s7DOITg/view?usp=sharing), and put the folder into `data`. 
 Then the structure should be as follows:
 ```
 --data--3DMatch--fragments
@@ -72,7 +72,7 @@ Note that, you need to modify the `descriptorName` to `SpinNet_{timestr}` in the
 
 
 ### (4) KITTI
-Download the processed dataset from [here](https://drive.google.com/drive/my-drive), and put the folder into `data`. 
+Download the processed dataset from [here](https://drive.google.com/file/d/1fuJiQwAay23BUKtxBG3__MwStyMuvrMQ/view?usp=sharing), and put the folder into `data`. 
 Then the structure is as follows:
 ```
 --data--KITTI--dataset
