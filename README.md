@@ -26,7 +26,7 @@ This code has been tested with Python 3.6, Pytorch 1.6.0, CUDA 10.2 on Ubuntu 18
  
 - Clone the repository 
 ```
-git clone https://github.com/aosheng1996/SpinNet && cd SpinNet
+git clone https://github.com/QingyongHu/SpinNet && cd SpinNet
 ```
 - Setup conda virtual environment
 ```

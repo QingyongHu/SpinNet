@@ -21,6 +21,7 @@ class ThreeDMatchDataset(Data.Dataset):
         training_data_files = glob.glob(self.patches_path + '/*.pkl')
         ids = [file.split("/")[-1] for file in training_data_files]
         ids = sorted(ids, key=lambda x: int(x.split("_")[-1].split(".")[0]))
+        ids = [file for file in ids if file.split("_")[1] == 'anc&pos']
         self.training_data_files = ids
         # Get info of training files
         self.per_num_patch = int(training_data_files[0].split("/")[-1].split("_")[2])
